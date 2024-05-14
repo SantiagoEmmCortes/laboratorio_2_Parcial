@@ -1,0 +1,11 @@
+C:\Users\saant\source\repos\Cortes.Santiago.23\laboratorio_2_Parcial\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\saant\source\repos\Cortes.Santiago.23\laboratorio_2_Parcial\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\saant\source\repos\Cortes.Santiago.23\laboratorio_2_Parcial\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\saant\source\repos\Cortes.Santiago.23\laboratorio_2_Parcial\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saant\source\repos\Cortes.Santiago.23\laboratorio_2_Parcial\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\saant\source\repos\Cortes.Santiago.23\laboratorio_2_Parcial\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\saant\source\repos\Cortes.Santiago.23\laboratorio_2_Parcial\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\saant\source\repos\Cortes.Santiago.23\laboratorio_2_Parcial\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\saant\source\repos\Cortes.Santiago.23\laboratorio_2_Parcial\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\saant\source\repos\Cortes.Santiago.23\laboratorio_2_Parcial\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\saant\source\repos\Cortes.Santiago.23\laboratorio_2_Parcial\obj\Debug\net6.0\ref\Biblioteca.dll
